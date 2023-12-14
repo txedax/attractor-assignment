@@ -21,10 +21,10 @@ npm install
 Set these environment variables:
 
 ```bash
-DATABASE_URL=
-NEXTAUTH_SECRET=
-GITHUB_CLIENT_ID=
-GITHUB_CLIENT_SECRET=
+NEXTAUTH_SECRET="your-super-secret-string"
+NEXTAUTH_URL="http://localhost:3000"
+GITHUB_CLIENT_ID=""
+GITHUB_CLIENT_SECRET=""
 ```
 
 Run the development server:
