@@ -1,8 +1,16 @@
 # Github Clone - Attractor Assignment
 
+## Dependencies
+
+- [typescript](https://www.typescriptlang.org/): it's the only options
+- [next](https://nextjs.org/): route handling
+- [next-auth](https://next-auth.js.org/): authentication
+- [react-query](https://tanstack.com/query/v3/): data fetching
+- [shadcn-ui](https://ui.shadcn.com/): ui library
+
 ## Getting Started
 
-First,
+First:
 
 ```bash
 git clone https://github.com/txedax/attractor-assignment
@@ -10,7 +18,7 @@ cd attractor-assignment
 npm install
 ```
 
-Then, set these environment variables:
+Set these environment variables:
 
 ```bash
 DATABASE_URL=
