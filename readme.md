@@ -6,6 +6,7 @@
 - [next](https://nextjs.org/): route handling
 - [next-auth](https://next-auth.js.org/): authentication
 - [react-query](https://tanstack.com/query/v3/): data fetching
+- [lodash.debounce](https://www.npmjs.com/package/lodash.debounce): debounce search
 - [shadcn-ui](https://ui.shadcn.com/): ui library
 
 ## Getting Started
